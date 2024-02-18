@@ -1,2 +1,2 @@
-# React + Vite
+# React + P5.js
 A simple physic simulation.
